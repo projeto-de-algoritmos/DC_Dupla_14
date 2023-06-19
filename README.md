@@ -3,7 +3,7 @@
 Tema:
  - Divide and Conquer
 
-# Greed_Exercicios_Dupla14
+# DC_Exercicios_Dupla14
 
 **Conteúdo da Disciplina**: Divide and Conquer Algorithm
 
@@ -14,34 +14,22 @@ Tema:
 | 18/0136925  |  Hugo Rocha de Moura |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Exercicios do leetcode
 
 ## Screenshots
-### Increasing Triplet Subsequence
-- Exercício 334 do leetcode
-- Dificuldade: Medium
-- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/increasing-triplet-subsequence/)
-- Para ter acesso ao arquivo com o código cliqeu [aqui](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/blob/master/exercicios/increasingTripletSubsequence.py)
-![Increasing Triplet Subsequence](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/assets/102327244/18b42071-1409-4543-b728-0714c63994fa)
+### Median of Two Sorted Arrays
+- Exercício do leetcode
+- Dificuldade: HARD
+- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/median-of-two-sorted-arrays)
+- Para ter acesso ao código clique [aqui](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/974711982/)
+![m2sA](https://github.com/projeto-de-algoritmos/DC_Dupla_14/blob/main/q1.png)
 
-### PatchingArray
-- Exercício 330 do leetcode
-- Dificuldade: Hard
-- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/patching-array/)
-- Para ter acesso ao arquivo com o código cliqeu [aqui](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/blob/master/exercicios/patchingArray.py)
-![PatchingArray](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/assets/102327244/109c85e1-3d2b-4956-b424-7723828718bc)
-
-### GasStation
-- Exercício 134 do leetcode
-- Dificuldade: Medium
-- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/gas-station/description/)
-- Para ter acesso ao código [aqui](https://leetcode.com/problems/gas-station/submissions/959716574/)
-- Para ter acesso ao VÍDEO [aqui](https://youtu.be/Hev76-KK7H0)
-![GasStation](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/blob/master/exercicios/ex03.png?raw=true)
-
-
-
-
+### Merge K Sorted Lists
+- Exercício 23 do leetcode
+- Dificuldade: HARD
+- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- Para ter acesso ao código clique [aqui](https://leetcode.com/problems/merge-k-sorted-lists/submissions/974750472/)
+![PatchingArray](https://github.com/projeto-de-algoritmos/DC_Dupla_14/blob/main/q2.png)
 
 
 
