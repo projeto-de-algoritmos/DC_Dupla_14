@@ -17,12 +17,17 @@ Tema:
 Exercicios do leetcode
 
 ## Screenshots
+
+### VIDEOS Q1 e Q2
+- Para ter acesso ao vídeo clique [aqui](https://youtu.be/09LLcKiVWQ4)
 ### Median of Two Sorted Arrays
 - Exercício do leetcode
 - Dificuldade: HARD
 - Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/median-of-two-sorted-arrays)
 - Para ter acesso ao código clique [aqui](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/974711982/)
 ![m2sA](https://github.com/projeto-de-algoritmos/DC_Dupla_14/blob/main/q1.png)
+
+
 
 ### Merge K Sorted Lists
 - Exercício 23 do leetcode
