@@ -19,7 +19,7 @@ Exercicios do leetcode
 ## Screenshots
 
 ### VIDEOS Q1 e Q2
-- Para ter acesso ao vídeo clique [aqui](https://youtu.be/09LLcKiVWQ4)
+- Para ter acesso ao vídeo clique [aqui](https://github.com/projeto-de-algoritmos/DC_Dupla_14/blob/main/Q1%20e%20Q2%20DIVIDE%20AND%20CONQUER.mp4)
 ### Median of Two Sorted Arrays
 - Exercício do leetcode
 - Dificuldade: HARD
